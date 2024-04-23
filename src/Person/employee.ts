@@ -9,4 +9,20 @@ class employee extends person {
         this.Positions = Positions;
         this.Salary = Salary;
     }
+
+    getFirstname():string {
+        return this.firstName;
+    }
+    getLastname():string {
+        return this.lastName;
+    }
+    getPosition():job_Position {
+        return this.Positions;
+    }
+    getSalary():number {
+        return this.Salary;
+    }
+    getPhoneNumber():number {
+        return this.phoneNumber;
+    }
 }
