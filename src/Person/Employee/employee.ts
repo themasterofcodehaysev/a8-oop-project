@@ -1,4 +1,4 @@
-import { person } from "./person";
+import { person } from "../person";
 import { job_Position } from "./jobPosition";
 
 class employee extends person {
