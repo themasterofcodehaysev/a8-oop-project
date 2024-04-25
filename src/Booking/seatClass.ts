@@ -1,4 +1,4 @@
-export enum seatClass{
+export enum SeatClass {
     EconomyClassic,
     EconomyFlex,
     BusinessClass
