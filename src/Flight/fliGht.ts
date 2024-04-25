@@ -1,6 +1,6 @@
 import { job_Position } from "../Person/Employee/jobPosition";
 import { datetime } from "../DateTime/dateTime";
-import { Passenger } from "../Person/Passenger/passenger";
+import { person } from "../Person/person";
 
 export class Flight {
     pilot: string;
