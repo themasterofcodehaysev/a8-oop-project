@@ -1,6 +1,6 @@
 export enum job_Position {
-    Pilot,
-    Chef,
-    baggage_handlers,
-    attendant
+    Pilot = 'pilot',
+    Chef = 'chef',
+    baggage_handlers = 'baggage_handlers',
+    attendant = 'attendant'
 }
